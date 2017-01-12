@@ -1,0 +1,16 @@
+C:\Users\Eason\Desktop\day-1-lab\day1-lab-homework\homework_Exercise\homework_ExerciseTests\bin\Debug\homework_ExerciseTests.dll
+C:\Users\Eason\Desktop\day-1-lab\day1-lab-homework\homework_Exercise\homework_ExerciseTests\bin\Debug\homework_ExerciseTests.pdb
+C:\Users\Eason\Desktop\day-1-lab\day1-lab-homework\homework_Exercise\homework_ExerciseTests\bin\Debug\homework_Exercise.dll
+C:\Users\Eason\Desktop\day-1-lab\day1-lab-homework\homework_Exercise\homework_ExerciseTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Eason\Desktop\day-1-lab\day1-lab-homework\homework_Exercise\homework_ExerciseTests\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\Eason\Desktop\day-1-lab\day1-lab-homework\homework_Exercise\homework_ExerciseTests\bin\Debug\homework_Exercise.pdb
+C:\Users\Eason\Desktop\day-1-lab\day1-lab-homework\homework_Exercise\homework_ExerciseTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Eason\Desktop\day-1-lab\day1-lab-homework\homework_Exercise\homework_ExerciseTests\obj\Debug\homework_ExerciseTests.csprojResolveAssemblyReference.cache
+C:\Users\Eason\Desktop\day-1-lab\day1-lab-homework\homework_Exercise\homework_ExerciseTests\obj\Debug\homework_ExerciseTests.dll
+C:\Users\Eason\Desktop\day-1-lab\day1-lab-homework\homework_Exercise\homework_ExerciseTests\obj\Debug\homework_ExerciseTests.pdb
+C:\Users\Eason\Desktop\day-1-lab\day1-lab-homework\homework_Exercise\homework_ExerciseTests\bin\Debug\FluentAssertions.Core.dll
+C:\Users\Eason\Desktop\day-1-lab\day1-lab-homework\homework_Exercise\homework_ExerciseTests\bin\Debug\FluentAssertions.dll
+C:\Users\Eason\Desktop\day-1-lab\day1-lab-homework\homework_Exercise\homework_ExerciseTests\bin\Debug\FluentAssertions.pdb
+C:\Users\Eason\Desktop\day-1-lab\day1-lab-homework\homework_Exercise\homework_ExerciseTests\bin\Debug\FluentAssertions.xml
+C:\Users\Eason\Desktop\day-1-lab\day1-lab-homework\homework_Exercise\homework_ExerciseTests\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\Eason\Desktop\day-1-lab\day1-lab-homework\homework_Exercise\homework_ExerciseTests\bin\Debug\FluentAssertions.Core.xml
