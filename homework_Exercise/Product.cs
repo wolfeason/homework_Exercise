@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using LINQPad;
-using System.Linq.Dynamic;
+//using LINQPad;
+//using System.Linq.Dynamic;
 
 namespace homework_Exercise
 {
@@ -18,7 +18,7 @@ namespace homework_Exercise
         {
             int TotalCount = products.Count();
             if (TotalCount == 0)
-                throw new InvalidOperationException("Cannot compute median for an empty set.");
+                throw new InvalidOperationException("Cannot compute median for an empty set."); 
 
             var temp = products.Select(column);
 
